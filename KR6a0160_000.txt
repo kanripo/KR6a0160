@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿含口解十二因緣經
+#+DATE: 2015-08-30 19:33:12.908504
+#+PROPERTY: JUAN 0
